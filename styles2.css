@@ -1,0 +1,52 @@
+﻿
+img {
+    height: auto;
+    
+}
+
+.loveLeaf{
+    color: crimson;
+}
+
+#subtitle{
+    font-weight: 700;
+    background-color: darkgrey;
+    color: darkslategray;
+}
+
+.little-hummie{
+    border-width: thick;
+    border-color: firebrick
+}
+
+h3 {
+    font-weight: 700;
+    color: darkslategrey;
+    background-color: darkgrey;
+}
+
+#silly-edward{
+    font-weight: 700;
+    color: darkslategrey;
+    background-color: darkgrey;
+}
+
+.love{
+    color: crimson;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.heart{
+    background-color: black;
+}
+
+.float-left{
+    float:left;
+}
+
+.float-right{
+    float: right;
+}
